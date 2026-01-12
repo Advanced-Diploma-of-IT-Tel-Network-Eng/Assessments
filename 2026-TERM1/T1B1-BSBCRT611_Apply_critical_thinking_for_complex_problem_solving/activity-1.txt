@@ -1,0 +1,51 @@
+Activity:
+
+Scenario:
+I work in a warehouse, where we have a break every two hours. Each time we start and finish our break, we have to sign in and sign out.
+
+Issue:
+Do not sign in and sign off may cause payment delays
+
+Root cause:
+1. I usually forget to sign in and sign off
+2. The app crashes and does not record the session
+3. There are no communication channels to remind us
+
+Solution:
+1. Send reminders to all walkie-talkies
+2. Automate the process using RFID Tags
+
+
+
+slide number 4, 11 and 16
+dsapra@milestones.edu.au
+
+------------
+14. critical decision
+
+What is means? Make a complex decision under heavy circumstances that have high impact and usually is not easy to undo
+
+encompass: relevant data, analysis and evaluation of the situation to follow company's goals or personal interests where a wide range of scenarios, alternatives and co sequences must be taking into account.  
+
+examples of critical decisions:
+1. Upgrade/change a database engine
+2. skip security features in an application
+
+What is non-critical decision? Decisions that don't have a high or critical outcome, could even be trivial decisions
+
+examples of non-critical decisions:
+1. Choose a framework to design a new application
+2. Launch an open or closed beta application to be tested
+--------------
+11. Few complex issues
+
+1. The decision-making hierarchy is unclear
+2. Employees do not follow safety rules in an industrial environment
+3. Access to restricted areas is not under supervision
+4. The company has many manual processes that run very slowly
+-------------------------
+16. 
+
+1. Communication between employees and supervisors is not effective
+2. The tasks to be performed are very complex or demand a great deal of physical effort.
+3. 
