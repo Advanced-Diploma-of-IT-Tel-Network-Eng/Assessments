@@ -1,0 +1,42 @@
+# 1. Configuración por defecto: Detección automática
+* text=auto
+
+# 2. Forzar LF (estándar Linux/macOS) para evitar "cambios fantasma"
+# Útil para scripts de configuración de red y código fuente
+*.c       text eol=lf
+*.cpp     text eol=lf
+*.h       text eol=lf
+*.py      text eol=lf
+*.js      text eol=lf
+*.json    text eol=lf
+*.html    text eol=lf
+*.css     text eol=lf
+*.md      text eol=lf
+*.txt     text eol=lf
+*.sh      text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# 3. Archivos específicos de Windows (mantienen su formato nativo)
+*.bat     text eol=crlf
+*.ps1     text eol=crlf
+
+# 4. Declarar archivos binarios (Protección contra corrupción)
+# Aquí incluimos tus extensiones y los archivos de Packet Tracer/GNS3
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.pdf     binary
+*.ico     binary
+*.zip     binary
+*.docx    binary
+*.xlsx    binary
+*.pptx    binary
+*.pka     binary
+*.pkt     binary
+*.gns3    binary
+
+# 5. Tratamiento de archivos de sistema como binarios
+.DS_Store  binary
+Thumbs.db  binary
