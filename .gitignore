@@ -1,45 +1,72 @@
-# Archivos temporales de Word, Excel, PowerPoint
+# ==========================================
+# SISTEMA OPERATIVO: WINDOWS
+# ==========================================
+# Archivos de base de datos de miniaturas y configuración de carpetas
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ==========================================
+# SISTEMA OPERATIVO: macOS
+# ==========================================
+# Archivos de servicios de escritorio y metadatos
+.DS_Store
+.AppleDouble
+.LSOverride
+# Archivos creados por el sistema cuando se accede a archivos en red o discos externos
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==========================================
+# SISTEMA OPERATIVO: LINUX
+# ==========================================
+# Archivos temporales y de configuración
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ==========================================
+# MICROSOFT OFFICE (Word, Excel, PowerPoint)
+# ==========================================
+# Archivos temporales de "propietario" (ej. ~$Documento.docx)
 ~$*
+# Archivos temporales de Office y backups automáticos
 *.tmp
 *.temp
 *.bak
 *.wbk
 *.asd
-*.lnk
-*.lock
-*.swp
-*.swo
-*.DS_Store
-Thumbs.db
-
-# Archivos de Office temporales y de autosalvado
-*.~*
-*.xlsb
 *.xlk
 *.xar
-*.wbk
 *.pptx~
 *.docx~
 *.xlsx~
-*.accdb~
-*.ldb
 
-# Archivos ocultos del sistema
-ehthumbs.db
-Icon?
-Desktop.ini
+# ==========================================
+# EDITORES DE TEXTO Y ENTORNOS (VS Code, Vim)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.lock
 
-# Archivos de respaldo de editores
-*.bak
+# ==========================================
+# OTROS (Respaldo y Logs)
+# ==========================================
 *.old
 *.orig
 *.backup
-
-# Archivos de Mac y Linux
-*.DS_Store
-._*
-*.swp
-*~
-
-# Archivos de VS Code (si usas)
-.vscode/
+*.log
