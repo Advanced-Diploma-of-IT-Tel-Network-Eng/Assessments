@@ -53,6 +53,7 @@ $RECYCLE.BIN/
 *.pptx~
 *.docx~
 *.xlsx~
+*.autosave
 
 # ==========================================
 # EDITORES DE TEXTO Y ENTORNOS (VS Code, Vim)
