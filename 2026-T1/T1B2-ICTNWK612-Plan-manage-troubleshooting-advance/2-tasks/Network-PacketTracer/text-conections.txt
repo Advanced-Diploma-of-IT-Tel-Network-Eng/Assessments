@@ -1,0 +1,81 @@
+Arquitectura:
+Core/Distribution: MS1 (Switch Multicapa L3)
+Access: MS0, MS3, MS4, MS6, MS7
+Perímetro: Firewall2
+Zona externa/DMZ: MS2
+Enrutamiento IPv6 estatico
+
+Dispositivos y roles:
+MS1 - CORE
+MS0 - DISRIBUIDO
+MS4 - ACCESS LAB1 - VLAN10
+MS6 - ACCESS LAB2 - VLAN2
+MS3 - ACCESS ADMIN - VLAN30
+MS7 - ACCESS ACADEMIC - VLAN40
+MS2 - ACCESS SERVERS - VLAN50
+
+
+VLANS. NOMBRE - direccionamiento IPV6
+10 - LAB1 - 2001:DB8:10::/64
+20 - LAB2 - 2001:DB8:20::/64
+30 - ADMIN - 2001:DB8:30::/64
+40 - ACADEMIC - 2001:DB8:40::/64
+50 - SERVER - 2001:DB8:50::/64
+
+
+CONEXCIONES E INTERFACES:
+
+MS1:
+Gi1/0/1 hacia MS0 Gi1/0/1
+Gi1/0/2 hacia MS3 Gi0/1
+Gi1/0/3 hacia Firewall2 Gi1/1
+Gi1/0/4 hacia MS7 Gi0/1
+
+
+MS0:
+Gi1/0/1 hacia MS1 Gi1/0/1
+Gi1/0/2 hacia MS4 Gi0/1
+Gi1/0/3 hacia MS6 Gi0/1
+
+
+MS4:
+Gi0/1 hacia MS0 Gi1/0/2
+
+
+MS6:
+Gi0/1 hacia MS0 Gi1/0/3
+
+
+MS3:
+Gi0/1 hacia MS1 Gi1/0/2
+
+
+MS7:
+Gi0/1 hacia MS1 Gi1/0/4
+
+
+MS2:
+Gi0/1 hacia Firewall2 Gi1/2
+
+Firewall2:
+Gi1/1 hacia MS1 Gi1/0/3
+Gi1/2 Hacia MS2 Gi0/1
+
+
+Diseño de Routing:
+
+Inter-VLAN routing centralizado en MS1
+- Solo MS1 tiene SVIs
+- Access switches operan en Capa 2
+- Trunking 802.1Q en todos los uplinks
+- Firewall protege VLAN 50 (Server Zone)
+
+Tecnologías:
+- IPv6
+- VLAN segmentation
+- 802.1Q trunking
+- Multilayer switching
+- SVI interfaces
+- Hierarchical campus design
+- Centralized routing model
+- Spanning Tree (default)
