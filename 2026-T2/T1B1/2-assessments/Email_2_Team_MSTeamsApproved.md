@@ -6,7 +6,7 @@
 **TO:** Team Worlducation I+D
 **CC:** Lucas Lopez | CEO
 **DATE:** 22 June 2021
-**SUBJECT:** CEO Decision — Microsoft Teams Approved + Important Team Update
+**SUBJECT:** CEO Decision - Microsoft Teams Approved + Important Team Update
 
 ---
 
@@ -14,7 +14,7 @@ Dear Team,
 
 I am writing to share an important update following my recent meeting with our CEO, Lucas Lopez, regarding the team's performance and the progress of the Cloud-First SaaS & B2C project.
 
-## CEO Decision — Microsoft Teams Approved
+## CEO Decision - Microsoft Teams Approved
 
 Following my report to Lucas outlining the team's current challenges and the solutions we have implemented together, I am pleased to inform you that the CEO has formally **approved the adoption of Microsoft Teams** as our official collaboration platform, effective **1 July 2021.**
 
@@ -35,10 +35,10 @@ This change will positively impact the team in the following ways:
 All project files, updates, and decisions will be centralised in Microsoft Teams, giving every team member real-time visibility of progress across all workstreams.
 
 **Improved Remote Collaboration**
-For those working remotely, Microsoft Teams will provide a single, reliable platform for video meetings, instant messaging, and document collaboration — replacing the current fragmented approach.
+For those working remotely, Microsoft Teams will provide a single, reliable platform for video meetings, instant messaging, and document collaboration - replacing the current fragmented approach.
 
 **Stronger Team Cohesion**
-Having a dedicated team space will make it easier to maintain open communication, share knowledge, and support each other — particularly as we move into the more intensive phases of the SaaS platform development and testing.
+Having a dedicated team space will make it easier to maintain open communication, share knowledge, and support each other - particularly as we move into the more intensive phases of the SaaS platform development and testing.
 
 ## What Do You Need to Do?
 
@@ -55,6 +55,6 @@ Please do not hesitate to reach out if you have any questions or concerns about 
 Kind regards,
 
 **Manuel Perez**
-IT Manager I+D | Team Worlducation I+D
+IT Manager I+D
+Team Worlducation I+D
 Worlducation
-m.perez@worlducation.com
