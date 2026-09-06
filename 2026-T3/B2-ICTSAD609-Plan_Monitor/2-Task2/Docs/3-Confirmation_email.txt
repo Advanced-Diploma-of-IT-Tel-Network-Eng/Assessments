@@ -1,12 +1,18 @@
-Subject: Confirmation of Performance Review Recommendations & Training
+Subject: Confirmation of Performance Review Recommendations and Training
+
 To: Divya Sapra (IT Supervisor)
 
 Dear Divya,
 
-Thank you for the constructive feedback during my performance review yesterday. I am writing to formally confirm that I accept the recommendations discussed. I have already registered for the Agile/Scrum & Async Communication Training scheduled for Weeks 11 and 12. I have also updated our Project Schedule to reflect this corrective action. I look forward to applying these new techniques to our ongoing work with the Bulgarian team.
-Regards,
+Thank you for the feedback provided during the performance review on 20 April 2026. I formally confirm acceptance of the recommendations discussed.
 
-Manuel Perez
-IT Professional
-Worlducation – Sydney CBD
+I have registered for Agile/Scrum and asynchronous communication training scheduled for Weeks 11 and 12. The Project Schedule has also been updated to record this corrective action.
+
+The training will be applied to improve coordination and requirement clarification with the Bulgarian development team.
+
+Kind regards,
+
+Manuel Perez  
+IT Professional  
+Worlducation, Sydney CBD  
 Supervised by: Divya Sapra (IT Professional Supervisor)
