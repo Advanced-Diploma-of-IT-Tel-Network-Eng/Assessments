@@ -44,6 +44,10 @@ For example, if the strategy is to expand, the solution should allow for scalabl
 - Information security policies: The process by which risks are identified, assessed, and controlled. For example, in the design phase of a business solution, all risk factors associated with its implementation must be considered.
 - Procedures for planning and implementing projects (SDLC)Procedures for planning and implementing projects (SDLC): These are procedures designed for managing the entire software development lifecycle. This framework allows for the structured development of a project that aligns with the required technical specifications, minimizes risks, and improves resource utilization.
 - Backup and disaster recovery procedure: These are the processes by which a company defines how data/information is managed and the plan for when recovery is required
+
+
+
+7. Explain two methods that can be used to calculate the implementation costs of a business solution. 
 - ROI: ROI (Return on Investment) is a method that uses the relationship between revenue and costs to determine if an investment is financially viable. Direct costs (software/hardware/services) and indirect costs are used to determine if the costs are too high. This allows you to calculate whether implementing a business solution is feasible.
 - Cost Analysis: It is used to calculate all the costs of a project, taking into account:
 	- fixed costs
@@ -52,10 +56,6 @@ For example, if the strategy is to expand, the solution should allow for scalabl
 	- indirect costs
 
 This way, the total cost of implementing a business solution can be determined, and a decision can be made about its feasibility.
-
-
-7. Explain two methods that can be used to calculate the implementation costs of a business solution. 
-- BLANK, BLANK
 
 
 

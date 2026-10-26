@@ -2,7 +2,6 @@ ICTSAD508 Assessment Task 2: case study
 
 ---
 
-Item 1 of 11
 *Case Study – King Edward VII College*
 
 
@@ -141,7 +140,7 @@ Ageing workforce
 # Operational Priorities
 The following table identifies the operational priorities we plan to achieve in pursuit of our strategic objectives.
 
-| Table Year 1   |                                                                                                                                              |                                                                                            |
+| Table Year 1, 2019|                                                                                                                                              |                                                                                            |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Date           | Priorities                                                                                                                                   | Key performance indicators                                                                 |
 | April 20XX     | Upgrade current ICT system to be faster, more efficient and sustainable and to ensure links between the multiple campuses to be established. | ICT system meets needs of staff and students. <br>Data can be retrieved via cloud access.  |
@@ -154,7 +153,7 @@ The following table identifies the operational priorities we plan to achieve in 
 | Dec 20XX       | Identify suitable location for Sydney campus.                                                                                                | Location identified and lease taken out.                                                   |
 
 
-| Table Year 2  |                                                                                                                                                                                                                    |                                                                                 |
+| Table Year 2, 2020  |                                                                                                                                                                                                                    |                                                                                 |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Date          | Priorities                                                                                                                                                                                                         | Key performance indicators                                                      |
 | Jan 20XX      | Provide information sessions showcasing the College and its campuses (Melbourne and Sydney).  <br>Fit out Sydney campus ready for student admissions in February.<br>Interview staff for commencement in February. | Identify at least 50 potential sign ups. <br>Sydney campus ready for operation. |
@@ -164,7 +163,7 @@ The following table identifies the operational priorities we plan to achieve in 
 | November 20XX | Staff performance reviews.                                                                                                                                                                                         | All staff performance reviews conducted.                                        |
 
 
-| Table Year 3 |                                                       |                                                                                |
+| Table Year 3, 2021 |                                                       |                                                                                |
 |--------------|-------------------------------------------------------|--------------------------------------------------------------------------------|
 | Date         | Priorities                                            | Key performance indicators                                                     |
 | Feb 20XX     | Undertake scoping study for possible offshore campus. | Scoping study completed by June XX and decision made as to whether to proceed. |
@@ -208,7 +207,6 @@ Market share is planned to increase by:
 *   regularly reviewing the effectiveness of all operations and making improvements when and where necessary.
 
 ---
-Item 2 of 11
 
 # Risk Management
 
