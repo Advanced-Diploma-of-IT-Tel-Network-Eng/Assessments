@@ -1,31 +1,71 @@
 
 
-1. 
+1. Question
 
-- King Edward VII College is a Registered Training Organisation (RTO) established in 2010 and based in Melbourne's CBD. This college is nationally recognized for providing high-quality training in management, marketing, human resources, and international business. The college adheres to the national VET Quality Framework to maintain its standards and through a continuous improvement system to keep in compliance with quality. It currently has approximately 500 students and 24 employees.
+King Edward VII College became a Registered Training Organisation (RTO) in 2010 and is based in Melbourne's CBD.
 
-Business model:
+It is nationally recognized for the quality of its courses in management, marketing, human resources, and international business. It currently has around 500 students. Its staff includes 24 members, 14 of whom are trainers and assessors.
 
-	- Value proposition: high-quality, industry-ready training, with competitive pricing, highly qualified and experienced training staff and innovative teaching methods.
-	- Target customer base: people seeking entry to the industry, and people already working in business and management who want to formalise or develop their skills.
-	- Delivery: classroom, blended (classroom and online) and online courses.
-	- Revenue: course fees, with attractive fee structures and payment plans.
-	- Marketing strategy: continuous market research, information sessions, an improved website and targeted campaigns to increase market share.
+The college follows the quality guidelines of the national VET Quality Framework and implements a continuous improvement system.
 
-Goals and Strategic Objectives:
+# Goals and objectives:
 
-	- To be a leader in high-quality vocational education and training.
-	- To establish and maintain high-quality infrastructure to support our staff and students.
-	- To be well-led, high performing, profitable and accountable.
-	- To develop our people and resources.
-	
-How I believe the Business’s infrastructure could impact the way in which the organisation meets its goals
-	- Outdated ICT system: This is a weakness
-	- ICT system upgrade: the system must be faster, more efficient and sustainable, with links between multiple campuses and data retrieved via cloud access.
-	- Online learning platform: all courses must be offered online, with a target of a 12% increase in student numbers.
-	- Improved website: the aim is a 10% increase in students and a 5% gain in market share.
-	- Expansion and growth: new campuses in Sydney and Brisbane, and enrolments growing at least 10% per annum, require scalable infrastructure.
-	- Security and compliance: student and staff information must be protected, and the College must comply with legislation.
+- To be leaders in quality in VET courses
+- To establish and maintain high quality services (staff/platform)
+- To be a profitable and high-performing organization
 
-Describe legislation that impacts on the business solution
+# Business model:
+
+- Value proposition: high-quality, industry-ready training, competitive pricing, highly qualified, experienced training staff and innovative teaching methods.
+- Target customer base: people who want to formalize and develop their skills. Also, people entering the industry, people already working in the sector.
+- Delivery: classroom, blended (face-to-face/online) and online courses.
+- Revenue: course fees, payment plans.
+- Marketing strategy: continuous market research, information sessions, an improved website and targeted campaigns
+
+# Business Requirements:
+
+- Outdated ICT system: A recognized weakness
+- ICT system upgrade: A system capable of scaling easily and quickly, with cloud access and access to other locations
+- Online learning platform: All courses must be available online
+- Improved website: Target increase of 10%, with a 5% market growth target
+- Expansion and growth: New campuses in Sydney and Brisbane. Target of at least 10% annual increase in new students
+- Security and compliance: Protection of student and staff data
+
+# Impact on Business Infrastructure
+
+I believe the main obstacle is the current, outdated infrastructure, considering the expansion objectives.
+
+- vs. Objective 1: High latency and low video/audio quality in online classes. It cannot offer all courses online.
+
+- vs. Objective 2: The current infrastructure is not capable of scaling or expanding to future campuses. It also cannot provide quality services to staff or students.
+
+- vs. Objective 3: It is difficult to implement solutions to achieve this objective based on business requirements.
+
+# Legislation, standards & procedures
+
+- Privacy Act 1988: Student and staff personal information in the ICT system, the cloud and the moodle must be collected, stored and accessed under the Australian Privacy Principles. This requires security controls, such as access control and encryption, and a data breach response.
+- Web accessibility standards (WCAG 2.2, Level A): The website and moodle must be accessible to all users, including students with disability, which supports the College value "Embrace difference and diversity" and it would meet the legal requirement to comply with Conformance Level 2.2.
+- Systems Development Life Cycle (SDLC)
+This gives a structured methodology for planning, testing and implementing the three solutions.
+
+## Procedures in the Simulation Pack:
+
+- Purchasing Policy and Procedures: This procedure directly affects vendor selection and the implementation timeline, so the quotation steps must be built into the schedule.
+- Risk Management: This supports the business case for the upgrade.
+- Continuous improvement system and annual internal audit: The solutions must be reviewed and improved after implementation.
+
+## Other applicable procedures:
+
+- Information security and cyber security policies, including acceptable use, passwords and access control.
+- Backup and disaster recovery procedure.
+- Procedures for planning and implementing projects (SDLC) and change management.
+- Risk management procedures for ICT projects.
+- OHS policies for hardware installation and workstations.
+- Documentation procedures for hardware and software solutions, such as asset registers and network diagrams.
+
+# Hardware, software,  network and interface requirements
+
+- 
+
+
 

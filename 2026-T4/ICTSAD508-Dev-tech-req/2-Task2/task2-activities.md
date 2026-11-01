@@ -176,24 +176,30 @@ Plan and document the implementation of solutions, including:
 
 1. Planning
 
-- About the business:
+a. About the business:
 	- Provide an overview of the business, including the business model and its goals and objectives. 
 	- Describe the business’s requirements that necessitates business solutions. 
-	- This assessment requires that you develop technical requirements for at least three business solutions.
+	
 
-- How do you believe the business’s infrastructure could impact the way in which the organisation meets its goals?
+b. How do you believe the business’s infrastructure could impact the way in which the organisation meets its goals?
 
-- Describe legislation that impacts on the business solution. 
-Identify at least one legislation and explain its impact.
+c. Question.
+
+	- Describe legislation that impacts on the business solution. Identify at least one legislation and explain its impact.
 	- Describe standards that impact on the business solution. Identify at least one standard and explain its impact.
+	
 	- Describe workplace procedures that impact on the business solution. If you are completing this for the case study business, review and comment on procedures in the Simulation Pack and any other procedures you believe would be applicable. 
-	- If you are completing this for your chosen business, identify and discuss the relevance of the workplace’s procedures relevant to the business solution. 
+	
 
-- Identify the hardware, software,  network and interface requirements for based on what you have learned about the business. 
+
+d. QuestionIdentify
+
+	- Identify the hardware, software,  network and interface requirements for based on what you have learned about the business. 
 	- List them here, giving a brief outline of your rationale. 
 	- Note: you will learn more about the needs of you business when you complete the next step of your task, and will flesh this information out further. 
 
-- Describe the security requirements relevant to the proposed business solutions.
+
+e. Describe the security requirements relevant to the proposed business solutions.
 
 2. Meeting
 Document information that you gather from your meeting here. Make sure you include as much detail as you can. Plenty of space has been provided.
@@ -201,31 +207,30 @@ Document information that you gather from your meeting here. Make sure you inclu
 3. Technical requirements 
 
 For Section 3 you are required to report on the business solution technical requirements. 
+
 Develop and present this information in any format you like, as long as you have addressed the following:
-- the requirements of the business, their business model, needs of end users and external parties 
-- legislation, standards and procedures that must be considered 
-- three business solutions (one must be related to security)
-- technical specifications relevant to the three business solutions.
+	- the requirements of the business, their business model, needs of end users and external parties 
+	- legislation, standards and procedures that must be considered 
+	- three business solutions (one must be related to security)
+	- technical specifications relevant to the three business solutions.
 
 4. Impact statement
 Attach the notes from your meeting in Section 4: File Upload page (next page).
-If you are completing this task using your chosen business, don’t forget to attach the recording of your meeting.
 If you are completing the case study business, review the policies and procedures provided by your assessor. 
 
-- Document the suitable software solutions 
-- Document hardware and networking solutions as  applicable. 
-- Document security protocols.  
-- Discuss the processes within the organisation that will require change. 
-- Report on the impact of changes on the business’s value and supply chain.
-- Submit your impact statement.
-	- If you are completing this task for the case study business, send an email to your assessor with your impact statement attached. 
-	- If you are completing this task for your chosen  business, follow procedures and submit your impact statement to the relevant personnel. Attach evidence to this portfolio that you have submitted it. 
+	- Document the suitable software solutions 
+	- Document hardware and networking solutions as  applicable. 
+	- Document security protocols.  
+	- Discuss the processes within the organisation that will require change. 
+	- Report on the impact of changes on the business’s value and supply chain.
+	- Submit your impact statement.
+		- If you are completing this task for the case study business, send an email to your assessor with your impact statement attached.
 	
 4. File Upload page
 Attach:
-- Meeting notes
-- Email evidence
-- Copies or cite the research you undertook to complete this part of your task.
+	- Meeting notes
+	- Email evidence
+	- Copies or cite the research you undertook to complete this part of your task.
 
 
 5. Planning for implementation
