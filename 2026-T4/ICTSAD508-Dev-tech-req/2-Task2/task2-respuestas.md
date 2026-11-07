@@ -133,6 +133,13 @@ Improve the website to present clear information about the courses and the Colle
 # Meeting Notes:
 Hi teacher, to create this section, I first developed a draft and then researched the topic to improve it and align it with the College's objectives.
 
+## Identification of College and user needs
+Alex was initially sent the document with the provisional "Hardware, software, network and interface requirements" (see Section 1). The needs of the College and those involved were also discussed and identified, leading to the following conclusion:
+
+Alex summarized the needs as faster, more efficient, sustainable, and secure for staff and students, emphasizing the importance of "Strategic Objectives" (case study).
+
+Alex summarized the needs as faster, more efficient, sustainable and secure for staff and students.
+
 ## Discussion and feedback
 Alex confirmed that the three proposed business solutions generally align with the College’s objectives. He requested more precise descriptions of the security requirements.
 
@@ -165,3 +172,187 @@ Improve the website information to attract more students and support the College
 
 #PENDIENTE#
 Budget y timelines
+
+Presupuesto: importe disponible y restricciones económicas comunicadas.
+VOY A SUPONER QUE LAS LIMITACIONES SON: una vez aceptado el budget no se podra aumentar mas de 10%, no se puede superar mas de $500,000. se debe cotizar e incluir servicios de soporte basico en la infraestructura por los siguientes 12 meses despues de terminacion del proyecto 
+Plazos: fechas límite, prioridades y tiempos disponibles.
+
+REVISAR ROBO-PREGUNTAS
+
+
+###### PARA EL FUTURO
+
+## UPDATED Hardware, software,  network, interface requirements and Professional Services
+
+## Hardware
+- Related to staff work (Solution 1: faster, more efficient and sustainable ICT system)
+	- Workstations
+	- Laptops
+	- Classroom devices
+
+- Related to infrastructure (Solution 1: cloud access and links between campuses)
+	- Cloud or dedicated servers
+	- Backup storage (cloud and offsite)
+
+- Related to network and security devices (Solution 1: defined security controls)
+	- Firewalls at each campus
+	- Routers, switches, access points
+	- Redundant network devices
+	- Endpoints
+
+## Software
+- Related to the ICT infrastructure (Solution 1)
+	- Operating systems
+	- Suites (cloud, on-premise)
+	- Licences
+
+- Related to security (Solution 1)
+	- Identity and access management (role-based access, MFA)
+	- Endpoint protection
+	- Security monitoring and logging tools
+	- Backup and disaster recovery software
+	- Encryption of data at rest
+
+- Related to online learning (Solution 2)
+	- Existing Moodle, modernised through the current third-party provider (all courses, online and blended delivery, learning resources and assessments)
+	- Secure APIs for Moodle and website integration
+
+- Related to the website (Solution 3)
+	- Website CMS
+
+## Network
+- Related to connectivity (Solution 1: cloud access and links between campuses)
+	- ISP, high bandwidth, with redundant connection
+	- Secure WAN/VPN (IPSec) links between campuses
+
+- Related to local networks (Solution 1: defined security controls)
+	- LAN network, private/public (segmented)
+	- Wi-Fi network, private/public (segmented)
+
+- Related to secure access (Solutions 2 and 3)
+	- Encrypted connections (HTTPS/TLS) for the website and Moodle
+	- Secure network access for API integration between Moodle and website
+
+## Interface
+- GUI for website (accessible information about the College and its courses, Solution 3)
+- GUI for Moodle (Solution 2)
+- Responsive design for Moodle and website
+- Accessible interface (WCAG 2.2)
+- Multilingual support on the website
+- Secure API interface between Moodle and website (authentication, encrypted connections, access controls; Solutions 2 and 3)
+- Access for external parties (students, prospective students) and internal users (staff)
+
+## Security requirements
+Based on the agreed business solutions, the following security requirements must be met:
+
+- Authentication and access control: strong passwords, password changes, multi-factor authentication (MFA) and role-based access for staff and students.
+- Preventing hacking, virus and malware: firewalls, endpoint protection, and regular security updates.
+- Encryption: HTTPS (SSL/TLS) for the website and Moodle, VPN (IPSec) between campuses, and encryption of data at rest in the cloud.
+- Secure APIs: authentication, encrypted connections and access controls for the Moodle and website integration.
+- Security monitoring: logging and monitoring of systems and network activity.
+- Privacy and confidentiality: protection of student and staff personal information under the Privacy Act 1988, including a data breach response plan.
+- Backup and disaster recovery: regular, tested backups, both cloud and offsite, to protect against data corruption and hardware failure.
+- Web and web server security: secure configuration of the website, Moodle and servers.
+- Workstation and physical security: screen locks, physical locks on server and network rooms, and asset tagging.
+- Internal security breaches: an information security policy and staff security awareness training.
+
+## Professional Services
+
+- IT Manager (me): project lead. Plans, coordinates and controls the three solutions, manages vendors and the budget, reports to the CEO and obtains approvals and sign-off.
+- Finance & Administration Manager: budget control, and purchasing approvals under the Purchasing Policy and Procedures. Also, process for purchasing.
+- Academic Manager: Moodle requirements (courses, online and blended delivery, assessments) and user acceptance testing (UAT) with trainers.
+- Compliance & QA Officer: checks privacy, accessibility (WCAG 2.2), RTO compliance requirements and head of QA office. Also, provide trainning staff
+- Marketing Manager and Marketing Assistant: website content and multilingual information.
+- Technician engineer: Network, security, cloud and monitoring
+- Developer: Website and APIs design
+
+
+# COST x Units x Time
+
+Quantity | Cost/unit | Total cost
+
+## Hardware
+
+- Workstations: 12 | $1,600 | $19,200
+- Laptops: 12 | $2,000 | $24,000
+- Classroom devices: 30 | $1,200 | $36,000
+- Cloud or dedicated servers: 12 months | $900/month | $10,800
+- Backup storage: 1 set (local and offsite) | $4,000 | $4,000
+- Firewalls at each campus: 3 | $4,500 | $13,500
+- Routers, switches, access points: 6 switches, 15 access points (routing on firewalls) | $2,500 / $700 | $25,500
+- Redundant network devices: 2 (HA firewall, spare switch) | $4,500 / $2,500 | $7,000
+- Endpoints: 54 | Included in workstations, laptops and classroom devices | $0
+
+* Hardware subtotal: $140,000
+
+## Software
+
+- Operating systems: 54 | Included in device price (OEM) | $0
+- Suites: 24 users | $36/user/month | $10,368
+- Licences: 24 users | Included in suites | $0
+- Identity and access management: 24 users | Included in suites (role-based access, MFA) | $0
+- Endpoint protection: 54 endpoints | Included in suites | $0
+- Security monitoring and logging tools: 54 endpoints | $80/year | $4,320
+- Backup and disaster recovery software: 1 annual subscription | $3,496 | $3,496
+- Encryption of data at rest: 1 | Included in cloud services | $0
+- Existing Moodle: 1 modernisation (third-party provider) | $20,000 | $20,000
+- Secure APIs for Moodle and website integration: 1 integration | Included in Developer | $0
+- Website CMS: 1 (theme, multilingual and accessibility plugins) | $2,100 | $2,100
+
+* Software subtotal: $40,284
+
+## Network
+
+- ISP, high bandwidth, with redundant connection: 3 campuses | $4,800/year | $14,400
+- Secure WAN/VPN links between campuses: 2 | Included in firewalls (IPSec) | $0
+- LAN network: 3 campuses | Included in switches and Technician engineer | $0
+- Wi-Fi network: 3 campuses | Included in access points and Technician engineer | $0
+- Encrypted connections for the website and Moodle: 2 SSL/TLS certificates | $250/year | $500
+- Secure network access for API integration between Moodle and website: 1 | Included in firewalls and Developer | $0
+
+* Network subtotal: $14,900
+
+## Interface
+
+- GUI for website: 1 | Included in Website CMS and Developer | $0
+- GUI for Moodle: 1 | Included in Moodle modernisation | $0
+- Responsive design for Moodle and website: 2 | Included in Moodle modernisation and Developer | $0
+- Accessible interface: 2 (WCAG 2.2) | Included in Moodle modernisation, Developer and Compliance & QA Officer | $0
+- Multilingual support on the website: 1 | Included in Website CMS and Marketing | $0
+- Secure API interface between Moodle and website: 1 | Included in Developer | $0
+- Access for external parties and internal users: 1 | Included in suites (IAM) and Moodle | $0
+
+* Interface subtotal: $0 (costed in Hardware, Software and Professional Services)
+
+## Security requirements
+
+- Authentication and access control: 24 users | Included in suites (MFA, role-based access) | $0
+- Preventing hacking, virus and malware: 1 set of testing tools (vulnerability scan, load and accessibility testing) | $5,800 | $5,800
+- Encryption: 1 | Included in cloud services, firewalls and SSL/TLS | $0
+- Secure APIs: 1 | Included in Developer | $0
+- Security monitoring: 1 | Included in security monitoring and logging tools | $0
+- Privacy and confidentiality: 1 (data breach response plan) | Included in Compliance & QA Officer | $0
+- Backup and disaster recovery: 1 | Included in backup storage and backup and DR software | $0
+- Web and web server security: 1 | Included in Technician engineer and Developer | $0
+- Workstation and physical security: 54 endpoints | Included in suites and Technician engineer | $0
+- Internal security breaches: 1 set of staff security awareness training materials | $3,000 | $3,000
+
+* Security subtotal: $8,800
+
+## Professional Services
+
+- IT Manager: 418 hours (22 weeks at 0.5 FTE) | $92/hour | $38,456
+- Finance & Administration Manager: 80 hours | $82/hour | $6,560
+- Academic Manager: 120 hours | $79/hour | $9,480
+- Compliance & QA Officer: 160 hours | $59/hour | $9,440
+- Marketing Manager and Marketing Assistant: 80 hours / 120 hours | $76 / $46 per hour | $11,600
+- Technician engineer: 760 hours (20 weeks) | $95/hour | $72,200
+- Developer: 380 hours (10 weeks) | $100/hour | $38,000
+
+* Professional Services subtotal: $185,736
+
+---
+* Subtotal: $389,720
+* Contingency (10%): $38,972
+* Total project budget: $428,692
+
