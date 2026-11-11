@@ -1,5 +1,5 @@
 
-
+---
 1. Question
 
 King Edward VII College became a Registered Training Organisation (RTO) in 2010 and is based in Melbourne's CBD.
@@ -112,6 +112,7 @@ Although no business solutions have been proposed, I believe the following essen
 - Web and web server security: secure configuration of the website, moodle and servers.
 - Workstation and physical security: screen locks, physical locks on server and network rooms, and asset tagging.
 - Internal security breaches: an information security policy, logging and monitoring, and staff security awareness training.
+---
 
 2. Question
 
@@ -176,9 +177,15 @@ Improve the website information to attract more students and support the College
 2. The project, including the three business solutions, is expected to be completed within a maximum of 12 months.
 3. Alex expects to receive technical support from us for the first 6 months after the end of the project.
 4. It was agreed to present the budget and timeline next week.
+---
 
+3. Question
 
-###### PARA EL FUTURO
+Find presentation on "presentation.pptx" or "presentation.md"
+
+---
+
+4. Question
 
 ## UPDATED Hardware, software,  network, interface requirements and Professional Services
 
@@ -267,6 +274,8 @@ Based on the agreed business solutions, the following security requirements must
 
 # COST x Units x Time
 
+Total Time: 12 months + 6 months (technical support)
+
 Quantity | Cost/unit | Total cost
 
 ## Hardware
@@ -345,12 +354,14 @@ Quantity | Cost/unit | Total cost
 - Compliance & QA Officer: 160 hours | $59/hour | $9,440
 - Marketing Manager and Marketing Assistant: 80 hours / 120 hours | $76 / $46 per hour | $11,600
 - Technician engineer: 760 hours (20 weeks) | $95/hour | $72,200
+- Technician engineer support 1000 hours (6 months):  (Block of Hours) | $50/hour | $50,000
 - Developer: 380 hours (10 weeks) | $100/hour | $38,000
 
 * Professional Services subtotal: $185,736
 
 ---
-* Subtotal: $389,720
-* Contingency (10%): $38,972
-* Total project budget: $428,692
+* Subtotal: $439,720
+* Contingency (10%): $43,972
+* Total project budget: $483,692
+
 
