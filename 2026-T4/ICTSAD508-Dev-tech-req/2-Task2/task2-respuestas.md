@@ -115,7 +115,7 @@ Although no business solutions have been proposed, I believe the following essen
 
 2. Question
 
-# Business Solutions:
+# Draft Business Solutions:
 The draft business solutions shown to Alex are:
 
 1. ICT Infrastructure Upgrade:
@@ -145,7 +145,6 @@ Alex confirmed that the three proposed business solutions generally align with t
 
 Alex clarified that the College already uses a Moodle-based online learning platform provided by a third party. Implementing a new Moodle platform is not required. The preferred approach is to modernise the existing platform through its provider, which would avoid the substantial cost and risk of acquiring a new product and migrating data. Alex also suggested developing APIs to integrate the online learning platform with the College website.
 
-
 ## Agreed business solutions
 
 1. ICT Infrastructure Upgrade and Security:
@@ -170,14 +169,13 @@ This approach would avoid the substantial cost and risk associated with moving t
 Improve the website information to attract more students and support the College’s marketing objectives. The website would provide accessible, user-friendly information about the College and its courses, with responsive and multilingual features as identified in the initial requirements. Integrate it with the existing online learning platform through the proposed secure APIs.
 
 
-#PENDIENTE#
-Budget y timelines
+## Agreements
 
-Presupuesto: importe disponible y restricciones económicas comunicadas.
-VOY A SUPONER QUE LAS LIMITACIONES SON: una vez aceptado el budget no se podra aumentar mas de 10%, no se puede superar mas de $500,000. se debe cotizar e incluir servicios de soporte basico en la infraestructura por los siguientes 12 meses despues de terminacion del proyecto 
-Plazos: fechas límite, prioridades y tiempos disponibles.
+1. Alex set the maximum budget at $500,000.
 
-REVISAR ROBO-PREGUNTAS
+2. The project, including the three business solutions, is expected to be completed within a maximum of 12 months.
+3. Alex expects to receive technical support from us for the first 6 months after the end of the project.
+4. It was agreed to present the budget and timeline next week.
 
 
 ###### PARA EL FUTURO
