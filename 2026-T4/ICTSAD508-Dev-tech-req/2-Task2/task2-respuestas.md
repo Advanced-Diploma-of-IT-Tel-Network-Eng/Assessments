@@ -4,7 +4,7 @@
 
 King Edward VII College became a Registered Training Organisation (RTO) in 2010 and is based in Melbourne's CBD.
 
-It is nationally recognized for the quality of its courses in management, marketing, human resources, and international business. It currently has around 500 students. Its staff includes 24 members, 14 of whom are trainers and assessors.
+It is nationally recognised for the quality of its courses in management, marketing, human resources, and international business. It currently has around 500 students. Its staff includes 24 members, 14 of whom are trainers and assessors.
 
 The college follows the quality guidelines of the national VET Quality Framework and implements a continuous improvement system.
 
@@ -12,19 +12,19 @@ The college follows the quality guidelines of the national VET Quality Framework
 
 - To be leaders in quality in VET courses
 - To establish and maintain high quality services (staff/platform)
-- To be a profitable and high-performing organization
+- To be a profitable and high-performing organisation
 
 # Business model:
 
 - Value proposition: high-quality, industry-ready training, competitive pricing, highly qualified, experienced training staff and innovative teaching methods.
-- Target customer base: people who want to formalize and develop their skills. Also, people entering the industry, people already working in the sector.
+- Target customer base: people who want to formalise and develop their skills. Also, people entering the industry, people already working in the sector.
 - Delivery: classroom, blended (face-to-face/online) and online courses.
 - Revenue: course fees, payment plans.
 - Marketing strategy: continuous market research, information sessions, an improved website and targeted campaigns
 
 # Business Requirements:
 
-- Outdated ICT system: A recognized weakness
+- Outdated ICT system: A recognised weakness
 - ICT system upgrade: A system capable of scaling easily and quickly, with cloud access and access to other locations
 - Moodle: All courses must be available online
 - Improved website: Target increase of 10%, with a 5% market growth target
@@ -56,7 +56,7 @@ This gives a structured methodology for planning, testing and implementing the t
 
 ## Other applicable procedures:
 
-- Information security and cyber security policies, including acceptable use, passwords and access control.
+- Information security and cybersecurity policies, including acceptable use, passwords and access control.
 - Backup and disaster recovery procedure.
 - Procedures for planning and implementing projects (SDLC) and change management.
 - Risk management procedures for ICT projects.
@@ -65,24 +65,24 @@ This gives a structured methodology for planning, testing and implementing the t
 
 # Hardware, software,  network and interface requirements
 
-## Hadware
+## Hardware
 - Related to staff work
 	- Workstations
 	- laptops
 	- classroom devices
 	
 - Related to the general functioning of the network
-	- ISP, high bandwith
-	- Redudancy network devices
+	- ISP, high bandwidth
+	- Redundancy network devices
 	- Cloud or dedicated servers
 	- WAN/VPN links
 - Related to accessibility
 	- Accessible interface WCAG
 	- Accessible interface multilingual support
 	
-- Realated to Network and security
+- Related to Network and security
 	- LAN network private/public
-	- Wifi network private/public
+	- Wi-Fi network private/public
 	- Endpoints
 	- Routers, switches, firewalls, access points
 
@@ -90,21 +90,21 @@ This gives a structured methodology for planning, testing and implementing the t
 
 Operating systems
 Suits (cloud, on-premise)
-Liceses 
+Licenses 
 Website
 Moodle
 
 ## Interface
-- GUI for website
+- GUI for the website
 - GUI for moodle
-- Responsibe desing moodle/website
+- Responsible design moodle/website
 - Network infrastructure digram 
 - ICT infrastructure map
 
 # Security requirements
 Although no business solutions have been proposed, I believe the following essential security requirements must be met:
 
-- Authentication and access control: strong passwords, password changes, two step authentication (MFA) and role-based access for staff and students.
+- Authentication and access control: strong passwords, password changes, two-step authentication (MFA) and role-based access for staff and students.
 - Preventing hacking, virus and malware: firewalls, endpoint protection, and regular patching and updates.
 - Encryption: HTTPS (SSL/TLS) for the website and moodle, VPN (IPSec) between campuses, and encryption of data at rest in the cloud.
 - Privacy and confidentiality: protection of student and staff personal information under the Privacy Act 1988, including a data breach response plan.
@@ -135,23 +135,18 @@ Improve the website to present clear information about the courses and the Colle
 Hi teacher, to create this section, I first developed a draft and then researched the topic to improve it and align it with the College's objectives.
 
 ## Identification of College and user needs
-Alex was initially sent the document with the provisional "Hardware, software, network and interface requirements" (see Section 1). The needs of the College and those involved were also discussed and identified, leading to the following conclusion:
+The College prioritises a secure and scalable infrastructure. After reviewing the provisional hardware, software, network, and interface requirements and discussing stakeholder needs, Alex concluded that the system must be faster, more efficient, sustainable, and secure for both staff and students, while aligning with the College's strategic objectives.
 
-Alex summarized the needs as faster, more efficient, sustainable, and secure for staff and students, emphasizing the importance of "Strategic Objectives" (case study).
-
-Alex summarized the needs as faster, more efficient, sustainable and secure for staff and students.
 
 ## Discussion and feedback
-Alex confirmed that the three proposed business solutions generally align with the College’s objectives. He requested more precise descriptions of the security requirements.
-
-Alex clarified that the College already uses a Moodle-based online learning platform provided by a third party. Implementing a new Moodle platform is not required. The preferred approach is to modernise the existing platform through its provider, which would avoid the substantial cost and risk of acquiring a new product and migrating data. Alex also suggested developing APIs to integrate the online learning platform with the College website.
+Alex confirmed that the 3 proposed business solutions generally align with the College's objectives, though he requested clearer descriptions of the security requirements. Since the College already uses a third-party Moodle platform, he advised modernising the existing system through the current provider rather than replacing it—avoiding high costs and data migration risks—and suggested developing APIs to integrate it with the College website.
 
 ## Agreed business solutions
 
 1. ICT Infrastructure Upgrade and Security:
 Upgrade the College’s ICT infrastructure to make it faster, more efficient and sustainable, support cloud access, and connect the College’s campuses. The solution must include defined security controls: 
 - role-based access
-- multi-factor authentication
+- multifactor authentication
 - firewalls
 - endpoint protection
 - regular security updates
@@ -177,15 +172,11 @@ Improve the website information to attract more students and support the College
 2. The project, including the three business solutions, is expected to be completed within a maximum of 12 months.
 3. Alex expects to receive technical support from us for the first 6 months after the end of the project.
 4. It was agreed to present the budget and timeline next week.
----
 
-3. Question
 
-Find presentation on "presentation.pptx" or "presentation.md"
+## AFTER MEETING: 1 WEEK
 
----
-
-4. Question
+In a follow-up meeting a week later, Alex was presented with the budget and timeline, along with all the cost and technical details as agreed. The project now includes technical support for the six months following its completion.
 
 ## UPDATED Hardware, software,  network, interface requirements and Professional Services
 
@@ -250,7 +241,7 @@ Find presentation on "presentation.pptx" or "presentation.md"
 ## Security requirements
 Based on the agreed business solutions, the following security requirements must be met:
 
-- Authentication and access control: strong passwords, password changes, multi-factor authentication (MFA) and role-based access for staff and students.
+- Authentication and access control: strong passwords, password changes, multifactor authentication (MFA) and role-based access for staff and students.
 - Preventing hacking, virus and malware: firewalls, endpoint protection, and regular security updates.
 - Encryption: HTTPS (SSL/TLS) for the website and Moodle, VPN (IPSec) between campuses, and encryption of data at rest in the cloud.
 - Secure APIs: authentication, encrypted connections and access controls for the Moodle and website integration.
@@ -266,7 +257,7 @@ Based on the agreed business solutions, the following security requirements must
 - IT Manager (me): project lead. Plans, coordinates and controls the three solutions, manages vendors and the budget, reports to the CEO and obtains approvals and sign-off.
 - Finance & Administration Manager: budget control, and purchasing approvals under the Purchasing Policy and Procedures. Also, process for purchasing.
 - Academic Manager: Moodle requirements (courses, online and blended delivery, assessments) and user acceptance testing (UAT) with trainers.
-- Compliance & QA Officer: checks privacy, accessibility (WCAG 2.2), RTO compliance requirements and head of QA office. Also, provide trainning staff
+- Compliance & QA Officer: checks privacy, accessibility (WCAG 2.2), RTO compliance requirements and head of QA office. Also, provide training staff
 - Marketing Manager and Marketing Assistant: website content and multilingual information.
 - Technician engineer: Network, security, cloud and monitoring
 - Developer: Website and APIs design
@@ -321,7 +312,7 @@ Quantity | Cost/unit | Total cost
 
 ## Interface
 
-- GUI for website: 1 | Included in Website CMS and Developer | $0
+- GUI for the website: 1 | Included in Website CMS and Developer | $0
 - GUI for Moodle: 1 | Included in Moodle modernisation | $0
 - Responsive design for Moodle and website: 2 | Included in Moodle modernisation and Developer | $0
 - Accessible interface: 2 (WCAG 2.2) | Included in Moodle modernisation, Developer and Compliance & QA Officer | $0
@@ -357,11 +348,31 @@ Quantity | Cost/unit | Total cost
 - Technician engineer support 1000 hours (6 months):  (Block of Hours) | $50/hour | $50,000
 - Developer: 380 hours (10 weeks) | $100/hour | $38,000
 
-* Professional Services subtotal: $185,736
+* Professional Services subtotal: $235,736
+
+
+## Cost Analysis
+* Fixed: $389,808
+* Variable: $93,884
+* Contingency: 10%
+* Budget: $483,692
+
+## NEW Meeting Summary
+Alex accepted the budget and timeline. He also accepted the updated hardware, software, network, interface requirements and professional services document.
+
+The project begins immediately.
 
 ---
-* Subtotal: $439,720
-* Contingency (10%): $43,972
-* Total project budget: $483,692
+
+3. Question
+
+Find presentation on "presentation.pptx" or "presentation.md"
+
+---
+
+
+4. Question
+
+
 
 
