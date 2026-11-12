@@ -165,6 +165,22 @@
 
 ---
 
+## Slide 9
+
+### Agreed:
+- Budget:
+- Timeline:
+- Post Support: 6 months
+
+
+### Cost Analysis:
+- Fixed: $389,808 (Hardware, Software, PS, Misc)
+- Variable: $93,884 (Subs, providers, licenses, post)
+- Contingency: 10%
+- Budget: $483,692
+ 
+
+---
 ## Questions & Answers
 
 *Thank you for your time. Open for questions and discussion.*

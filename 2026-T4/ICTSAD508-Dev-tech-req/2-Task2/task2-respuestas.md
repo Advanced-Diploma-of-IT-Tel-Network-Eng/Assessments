@@ -1,6 +1,5 @@
 
----
-1. Question
+# Section 1: Planning
 
 King Edward VII College became a Registered Training Organisation (RTO) in 2010 and is based in Melbourne's CBD.
 
@@ -114,7 +113,7 @@ Although no business solutions have been proposed, I believe the following essen
 - Internal security breaches: an information security policy, logging and monitoring, and staff security awareness training.
 ---
 
-2. Question
+# Section 2: Meeting
 
 # Draft Business Solutions:
 The draft business solutions shown to Alex are:
@@ -364,15 +363,29 @@ The project begins immediately.
 
 ---
 
-3. Question
+# Section 3: Technical requirements 
 
 Find presentation on "presentation.pptx" or "presentation.md"
 
 ---
 
 
-4. Question
+# Section 4: Impact statement
+
+---
+# Section 4: File Upload page
+
+Source of research: 
+I was a PS (technical) engineer, so I'm developing the assessment from that perspective, which is why it's the most expensive part of the project. I used Seek to determine the hourly rate for a PS in Australia. I used my experience developing a bank platform modernisation project and a bank transactional switch modernisation project to develop the three business proposals.
+
+Find Email evidence on "email-1.txt" and "email-2.txt"
+
+---
 
 
+# Section 5: Planning for implementation
 
+---
+
+# Section 6: Finalisation
 
