@@ -292,11 +292,11 @@ Quantity | Cost/unit | Total cost
 - Security monitoring and logging tools: 54 endpoints | $80/year | $4,320
 - Backup and disaster recovery software: 1 annual subscription | $3,496 | $3,496
 - Encryption of data at rest: 1 | Included in cloud services | $0
-- Existing Moodle: 1 modernisation (third-party provider) | $20,000 | $20,000
+- Existing Moodle: 1 modernisation (third-party provider) | $1,300 | $1,300
 - Secure APIs for Moodle and website integration: 1 integration | Included in Developer | $0
 - Website CMS: 1 (theme, multilingual and accessibility plugins) | $2,100 | $2,100
 
-* Software subtotal: $40,284
+* Software subtotal: $21,584
 
 ## Network
 
@@ -351,10 +351,9 @@ Quantity | Cost/unit | Total cost
 
 
 ## Cost Analysis
-* Fixed: $389,808
-* Variable: $93,884
-* Contingency: 10%
-* Budget: $483,692
+* Fixed: $369,238
+* Variable: $75,184
+* Budget: $444,422 (10% contingency included)
 
 ## NEW Meeting Summary
 Alex accepted the budget and timeline. He also accepted the updated hardware, software, network, interface requirements and professional services document.
@@ -371,6 +370,8 @@ Find presentation on "presentation.pptx" or "presentation.md"
 
 
 # Section 4: Impact statement
+
+Fin the document on "Impact-statement.md"
 
 ---
 # Section 4: File Upload page
