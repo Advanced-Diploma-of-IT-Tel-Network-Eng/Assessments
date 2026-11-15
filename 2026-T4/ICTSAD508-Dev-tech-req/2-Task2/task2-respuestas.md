@@ -261,53 +261,42 @@ Based on the agreed business solutions, the following security requirements must
 - Technician engineer: Network, security, cloud and monitoring
 - Developer: Website and APIs design
 
-
-# COST x Units x Time
-
-Total Time: 12 months + 6 months (technical support)
-
-Quantity | Cost/unit | Total cost
-
 ## Hardware
 
 - Workstations: 12 | $1,600 | $19,200
 - Laptops: 12 | $2,000 | $24,000
 - Classroom devices: 30 | $1,200 | $36,000
-- Cloud or dedicated servers: 12 months | $900/month | $10,800
-- Backup storage: 1 set (local and offsite) | $4,000 | $4,000
 - Firewalls at each campus: 3 | $4,500 | $13,500
 - Routers, switches, access points: 6 switches, 15 access points (routing on firewalls) | $2,500 / $700 | $25,500
-- Redundant network devices: 2 (HA firewall, spare switch) | $4,500 / $2,500 | $7,000
 - Endpoints: 54 | Included in workstations, laptops and classroom devices | $0
 
-* Hardware subtotal: $140,000
+*Hardware subtotal: $XXX
 
 ## Software
 
-- Operating systems: 54 | Included in device price (OEM) | $0
-- Suites: 24 users | $36/user/month | $10,368
-- Licences: 24 users | Included in suites | $0
-- Identity and access management: 24 users | Included in suites (role-based access, MFA) | $0
-- Endpoint protection: 54 endpoints | Included in suites | $0
-- Security monitoring and logging tools: 54 endpoints | $80/year | $4,320
-- Backup and disaster recovery software: 1 annual subscription | $3,496 | $3,496
-- Encryption of data at rest: 1 | Included in cloud services | $0
-- Existing Moodle: 1 modernisation (third-party provider) | $1,300 | $1,300
+- Suite Google Workspace plus: 1 year/100 users | $1,545 | $1,545
+- Operating systems: 100 | Included in device price (OEM) | $0
+- Identity and access management: 100 users | Included in suite/Cloud (role-based access, MFA) | $0
+- Endpoint protection: Cloud endpoints | Included in Cloud | $0
+- Security monitoring and logging tools: 54 endpoints | included on the 1st year | $0
+- Backup and disaster recovery software | included Cloud | $0
+- Encryption of data at rest: 1 | Included in cloud | $0
+- Moodle Cloud upgrade plan Standard: 1 modernisation | $1,300 | $1,300
 - Secure APIs for Moodle and website integration: 1 integration | Included in Developer | $0
-- Website CMS: 1 (theme, multilingual and accessibility plugins) | $2,100 | $2,100
+- TALKK Website CMS: 1 (theme, multilingual and accessibility plugins) | $25,000 | $25,000
 
-* Software subtotal: $21,584
+*Software subtotal: $XXX
 
 ## Network
 
-- ISP, high bandwidth, with redundant connection: 3 campuses | $4,800/year | $14,400
+- ISP Telstra Small Business, pro ultra fast nbn: 3 campuses | $1,908/campus | $5,724
 - Secure WAN/VPN links between campuses: 2 | Included in firewalls (IPSec) | $0
 - LAN network: 3 campuses | Included in switches and Technician engineer | $0
 - Wi-Fi network: 3 campuses | Included in access points and Technician engineer | $0
-- Encrypted connections for the website and Moodle: 2 SSL/TLS certificates | $250/year | $500
-- Secure network access for API integration between Moodle and website: 1 | Included in firewalls and Developer | $0
+- Encrypted connections for the website and Moodle: inclouded Cloud/Moodle/Web | $0 | $0
+- Secure network access for API integration between Moodle and website: 1 | Included in Developer | $0
 
-* Network subtotal: $14,900
+*Network subtotal: $XXX
 
 ## Interface
 
@@ -319,41 +308,39 @@ Quantity | Cost/unit | Total cost
 - Secure API interface between Moodle and website: 1 | Included in Developer | $0
 - Access for external parties and internal users: 1 | Included in suites (IAM) and Moodle | $0
 
-* Interface subtotal: $0 (costed in Hardware, Software and Professional Services)
+*Interface subtotal: $0 (costed in Hardware, Software and Professional Services)
 
 ## Security requirements
 
-- Authentication and access control: 24 users | Included in suites (MFA, role-based access) | $0
-- Preventing hacking, virus and malware: 1 set of testing tools (vulnerability scan, load and accessibility testing) | $5,800 | $5,800
+- Authentication and access control: 100 users | Included in Software (MFA, role-based access) | $0
+- Hardening: vulnerability scan, load and accessibility testing x 3 sessions| $5,985 | $5,985
 - Encryption: 1 | Included in cloud services, firewalls and SSL/TLS | $0
 - Secure APIs: 1 | Included in Developer | $0
-- Security monitoring: 1 | Included in security monitoring and logging tools | $0
-- Privacy and confidentiality: 1 (data breach response plan) | Included in Compliance & QA Officer | $0
-- Backup and disaster recovery: 1 | Included in backup storage and backup and DR software | $0
-- Web and web server security: 1 | Included in Technician engineer and Developer | $0
-- Workstation and physical security: 54 endpoints | Included in suites and Technician engineer | $0
+- Backup and disaster recovery: 1 | Included Cloud | $0
+- Web and web server security: 1 | Included TALKK | $0
+- Workstation and physical security: 54 endpoints | Included Technician engineer | $0
 - Internal security breaches: 1 set of staff security awareness training materials | $3,000 | $3,000
 
-* Security subtotal: $8,800
+*Security subtotal: $XXX
 
 ## Professional Services
 
-- IT Manager: 418 hours (22 weeks at 0.5 FTE) | $92/hour | $38,456
-- Finance & Administration Manager: 80 hours | $82/hour | $6,560
-- Academic Manager: 120 hours | $79/hour | $9,480
-- Compliance & QA Officer: 160 hours | $59/hour | $9,440
-- Marketing Manager and Marketing Assistant: 80 hours / 120 hours | $76 / $46 per hour | $11,600
-- Technician engineer: 760 hours (20 weeks) | $95/hour | $72,200
-- Technician engineer support 1000 hours (6 months):  (Block of Hours) | $50/hour | $50,000
-- Developer: 380 hours (10 weeks) | $100/hour | $38,000
+- IT Manager: 960 hours | $83/hour | $XXX
+- Finance & Administration Manager: 80 hours | $83/hour | $XXX
+- Compliance & QA Officer: 160 hours | $35/hour | $XXX
+- Marketing Manager and Marketing Assistant: 80 hours / 120 hours | $34 / $39 per hour | $4,680
+- Technician engineer: 960 hours | $41/hour | $XXX
+- Technician engineer support: 1000 hours (6 months, Block of Hours) | $41/hour | $41,000
+- APIs Developer: 96 hours | $80/hour | $XXX
 
-* Professional Services subtotal: $235,736
+*Professional Services subtotal: $XXX
 
 
 ## Cost Analysis
-* Fixed: $369,238
-* Variable: $75,184
-* Budget: $444,422 (10% contingency included)
+- Fixed: $XXX
+- Variable: $XXX
+- Contingency: 10%
+- Budget: $XXX 
 
 ## NEW Meeting Summary
 Alex accepted the budget and timeline. He also accepted the updated hardware, software, network, interface requirements and professional services document.
