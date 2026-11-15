@@ -261,6 +261,12 @@ Based on the agreed business solutions, the following security requirements must
 - Technician engineer: Network, security, cloud and monitoring
 - Developer: Website and APIs design
 
+# COST x Units x Time
+
+Total Time: 12 months + 6 months (technical support)
+
+Quantity | Cost/unit | Total cost
+
 ## Hardware
 
 - Workstations: 12 | $1,600 | $19,200
