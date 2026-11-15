@@ -1,0 +1,33 @@
+To: Alex Garcia - King Edward VII College
+Cc: Selina Garcia, Nomthandazo Adebayo, Chandra Singh
+Subject: Impact meeting summary and action items
+
+Hi Alex,
+
+I met with Selina Garcia (Academic Manager), Nomthandazo Adebayo (Finance Manager) and Chandra Singh (Marketing Manager) to discuss the impact of the 3 business solutions: ICT Infrastructure Upgrade and Security, Modernisation and Integration of the Existing Moodle, and Website Improvement. 
+
+All concerns were addressed. The initial recommendations, budget and timeline remain unchanged.
+
+Summary:
+
+- Support: each supplier provides support for its own service. IT supports College-owned systems.
+- Costs: licences and services are paid for the first year, with no additional costs in year one. Prices are fixed under an SLA, including delivery to any campus. From year two, renewals are managed with each supplier.
+- Training: all staff at all campuses will complete basic cyber security training, plus training focused on each division.
+- Equipment: all equipment is new, covered by supplier warranty and delivered with the College's secure configuration.
+- Moodle: the MoodleCloud subscription will be upgraded with the same provider. No migration is needed and no student progress or settings will be lost. MFA will be applied automatically and users will be notified.
+- Website: campaigns will be managed through the TALKK CMS, APIs will integrate Moodle and current College functions, the domain stays the same, and TALKK will verify content against WCAG 2.2.
+- Data protection: All suppliers comply with the Privacy Act 1988.
+
+Action items:
+
+- Meet Finance on project cost details and payment schedule - Manuel Perez / Nomthandazo Adebayo
+- Schedule cyber security and division-specific training - Manuel Perez / Roy Ayoade
+- Authorise the MoodleCloud licence upgrade and notify users about MFA - Manuel Perez / Selina Garcia
+- Confirm TALKK CMS training and WCAG 2.2 review plan - Manuel Perez / Chandra Singh
+
+The full meeting notes are attached. Please let me know if you have any feedback.
+
+Kind regards,
+Manuel Perez - IT Manager
+
+Attachment: Meeting Notes - Impact of Business Solutions

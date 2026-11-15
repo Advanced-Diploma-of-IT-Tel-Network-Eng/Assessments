@@ -4,4 +4,5 @@ References:
 - TALKK website CMS: $25,500 | https://talkk.com.au/tools/website-cost-calculator
 - Google Workspace Plus, 100 users: $1,545/year | https://workspace.google.com/pricing?hl=en_kr&utm_source=google&utm_medium=cpc&utm_campaign=1713702-Workspace-DR-APAC-AU-en-Google-BKWS-EXA-Hybrid-HV-ToSunset&utm_content=c-Hybrid+%7C+BKWS+-+EXA+%7C+Txt-Workspace-N/A-967875257202&utm_term=google%20workspace%20pricing&gclsrc=aw.ds&gad_source=1&gad_campaignid=11187152533&gclid=CjwKCAiAquDXBhApEiwAoyNqBOweLo9K2k0cqHy8M2Tz4EKQwG0Q8b1T2Oa4kX8OXrkU3lx5__x7FxoCPyoQAvD_BwE
 - Clone Systems, Scann vulnerability | https://www.clone-systems.com/pricing?mode=onetime-vuln&product=vulnerability
-- 
+- Hadware | https://thetechgeeks.com/pages/search-results-page?q=FortiGate%20200G
+- Enpoint licence | https://itprice.com/fortinet-price-list/forticlient.html

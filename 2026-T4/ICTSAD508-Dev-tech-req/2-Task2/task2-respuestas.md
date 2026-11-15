@@ -269,40 +269,40 @@ Quantity | Cost/unit | Total cost
 
 ## Hardware
 
-- Workstations: 12 | $1,600 | $19,200
-- Laptops: 12 | $2,000 | $24,000
-- Classroom devices: 30 | $1,200 | $36,000
-- Firewalls at each campus: 3 | $4,500 | $13,500
-- Routers, switches, access points: 6 switches, 15 access points (routing on firewalls) | $2,500 / $700 | $25,500
-- Endpoints: 54 | Included in workstations, laptops and classroom devices | $0
+- ThinkPad E14_Gen7 (AMD7_250): 100x3campuses| $1,649 | $49,470
+- Classroom devices: 300 | $1,200 x3campuses | $360,000
 
-*Hardware subtotal: $XXX
+*Hardware subtotal: $136,490 (each campus)
 
 ## Software
 
 - Suite Google Workspace plus: 1 year/100 users | $1,545 | $1,545
-- Operating systems: 100 | Included in device price (OEM) | $0
-- Identity and access management: 100 users | Included in suite/Cloud (role-based access, MFA) | $0
+- Identity and access management: 300 staff | Included in suite/Cloud (role-based access, MFA) | $0
 - Endpoint protection: Cloud endpoints | Included in Cloud | $0
-- Security monitoring and logging tools: 54 endpoints | included on the 1st year | $0
+- Security monitoring and logging tools | Included FortiNet | $0
 - Backup and disaster recovery software | included Cloud | $0
 - Encryption of data at rest: 1 | Included in cloud | $0
 - Moodle Cloud upgrade plan Standard: 1 modernisation | $1,300 | $1,300
 - Secure APIs for Moodle and website integration: 1 integration | Included in Developer | $0
 - TALKK Website CMS: 1 (theme, multilingual and accessibility plugins) | $25,000 | $25,000
+- Endpoint FortiClient EPP/ATP Cloud FC3-10-EMS05-428: 2000 pack- 1 year | $21,060 | $21,060
 
-*Software subtotal: $XXX
+*Software subtotal: $16,301  (each campus)
 
 ## Network
 
 - ISP Telstra Small Business, pro ultra fast nbn: 3 campuses | $1,908/campus | $5,724
-- Secure WAN/VPN links between campuses: 2 | Included in firewalls (IPSec) | $0
+- Secure WAN/VPN links between campuses: 2 | Included in firewalls | $0
 - LAN network: 3 campuses | Included in switches and Technician engineer | $0
 - Wi-Fi network: 3 campuses | Included in access points and Technician engineer | $0
-- Encrypted connections for the website and Moodle: inclouded Cloud/Moodle/Web | $0 | $0
+- Encrypted connections for the website and Moodle: included Cloud/Moodle/Web | $0 | $0
 - Secure network access for API integration between Moodle and website: 1 | Included in Developer | $0
+- HUB-Firewall FortiGate 200G: 1 | $17,165 | $17,165
+- Campus Firewall FortiGate 70G: 3 | $2,337 | $7,011
+- Distributed switch Ubiquiti UniFi Pro Max 48: 6x3campuses | $1,435 | $25,830
+- Wi-fi 7 Ubiquiti UniFi U7 Pro: 30x3campuses | $568 | $51,200
 
-*Network subtotal: $XXX
+*Network subtotal: $188,976  (each campus)
 
 ## Interface
 
@@ -319,15 +319,15 @@ Quantity | Cost/unit | Total cost
 ## Security requirements
 
 - Authentication and access control: 100 users | Included in Software (MFA, role-based access) | $0
-- Hardening: vulnerability scan, load and accessibility testing x 3 sessions| $5,985 | $5,985
+- Hardening: vulnerability scan, load and accessibility testing | $1,995 | $1,995
 - Encryption: 1 | Included in cloud services, firewalls and SSL/TLS | $0
 - Secure APIs: 1 | Included in Developer | $0
 - Backup and disaster recovery: 1 | Included Cloud | $0
 - Web and web server security: 1 | Included TALKK | $0
-- Workstation and physical security: 54 endpoints | Included Technician engineer | $0
-- Internal security breaches: 1 set of staff security awareness training materials | $3,000 | $3,000
+- Workstation and physical security | Included Technician engineer/FortiNet | $0
+- Internal security breaches: 1 set of staff security awareness training materials | icluded PS| $0
 
-*Security subtotal: $XXX
+*Security subtotal: $1,995
 
 ## Professional Services
 
@@ -339,14 +339,14 @@ Quantity | Cost/unit | Total cost
 - Technician engineer support: 1000 hours (6 months, Block of Hours) | $41/hour | $41,000
 - APIs Developer: 96 hours | $80/hour | $XXX
 
-*Professional Services subtotal: $XXX
+*Professional Services subtotal: $184,640
 
 
 ## Cost Analysis
-- Fixed: $XXX
-- Variable: $XXX
-- Contingency: 10%
-- Budget: $XXX 
+- Discount: 25% (by Bulk purchasing on Hardware and network devices)
+- Fixed: $245,595 ($327,461)
+- Variable: $200,941
+- Budget: $446,536
 
 ## NEW Meeting Summary
 Alex accepted the budget and timeline. He also accepted the updated hardware, software, network, interface requirements and professional services document.
@@ -366,13 +366,98 @@ Find presentation on "presentation.pptx" or "presentation.md"
 
 Fin the document on "Impact-statement.md"
 
+# Meeting Notes Impact statement: 
+
+## Attendees:
+- Selina Garcia - Academic Manager
+- Nomthandazo Adebayo - Finance Manager
+- Chandra Singh - Marketing Manager
+
+
+## General concerns
+Each service provider has its own T support team, so if it's not one of our services, you should contact them directly.
+
+Costs and renewals associated with licenses purchased from providers are managed directly with them after the first year of service with us.
+
+The cost of licenses, services, and equipment is covered by an SLA, so the agreed-upon prices will not increase, regardless of the city to which the equipment needs to be shipped; these costs are already included in the total equipment cost.
+
+The cost of the project with us will be handled by the finance team, so they will contact your finance team directly to discuss the details.
+
+The cost of licenses and services is for one year, so you don't need to worry about additional costs in the first year.
+
+All employees at all College locations will receive basic cybersecurity training.
+
+Each division will receive training focused on its area of ​​work. For example, the marketing team will receive special marketing training under the new provider.
+
+All equipment is new and therefore under direct warranty with the provider. All equipment will be delivered with the secure configuration required by the College. In addition, two of the computers have Antonio Neville features, so you shouldn't worry about whether your equipment will run the new software without problems; the equipment is designed to last up to 10 years.
+
+All providers comply with data protection regulations under the Copyright Act 1968.
+
+## Moodle. Selina Garcia - Academic Manager
+An agreement has been reached with MoodleCloud to upgrade the subscription to a higher version, so no student will lose their progress, and no administrator will lose their system configuration.
+
+Moodle will not require migration, as we will continue with the same provider. Therefore, the change will be transparent for everyone and will take effect immediately the day after the license upgrade is authorized with Moodle.
+
+The new MFA security measures will be automatically applied by the provider, and the user will be notified to update their password and authentication method.
+
+## MARKETING. Chandra Singh's concerns
+
+From now on, all marketing guidelines will be managed through the TALKK CMS. An API is being developed to integrate Moodle and the College's current functions, so all current marketing will work on the new site. The domain will remain the same, as the College owns its web domain.
+
+All accessibility content will be verified by TALKK to comply with WCAG 2.2.
+
+
+## Meeting Notes
+
+## 1. General items (all attendees)
+
+| Concern raised | Response / agreement |
+|---|---|
+| Who provides support | Each supplier provides its own IT support for its service. For third-party services, staff contact the supplier directly. IT supports College-owned systems. |
+| Licence costs and renewals | Licences and services are paid for the first year. No additional costs in year one. From year two, renewals are managed directly with each supplier. |
+| Price increases and campus locations | Licences, services and equipment are covered by an SLA. Agreed prices will not increase, and delivery to any campus (Melbourne, Sydney, Brisbane) is included in the total equipment cost. |
+| Project cost details | IT will work directly with the Finance team on the project cost details and payment schedule. |
+| Training | All staff at all campuses will complete basic cyber security training. Each division will also receive training focused on its area (e.g. Marketing on the new CMS). |
+| Equipment | All equipment is new, covered by direct supplier warranty and delivered with the College's secure configuration. Specifications are high-end, so devices will run the new software without issues and are designed for a long service life. |
+| Data protection | All suppliers comply with data protection requirements under the Privacy Act 1988. |
+
+## 2. Moodle (Selina Garcia)
+
+| Concern raised | Response / agreement |
+|---|---|
+| Loss of student progress or admin settings | The MoodleCloud subscription will be upgraded to a higher plan with the same provider. No student progress or administrator configuration will be lost. |
+| Migration and downtime | No migration is required. The change is transparent and takes effect the day after the licence upgrade is authorised. |
+| MFA impact on users | MFA is applied automatically by the provider. Each user will be notified to update their password and authentication method. |
+
+## 3. Website (Chandra Singh)
+
+| Concern raised | Response / agreement |
+|---|---|
+| Marketing campaigns and current functions | All marketing campaigns will be managed through the TALKK CMS. APIs are being developed to integrate Moodle and current College functions, so all current marketing will work on the new site. |
+| Domain and online presence | The domain stays the same, as the College owns its web domain. |
+| Accessibility | TALKK will verify all content for WCAG 2.2 compliance. |
+
+## 4. Outcome
+Stakeholder concerns were addressed. The initial recommendations were maintained, with no changes to the accepted budget or timeline.
+
+## 5. Actions
+
+| Action | Owner | Due |
+|---|---|---|
+| Meet Finance on project cost details and payment schedule | Manuel Perez / Nomthandazo Adebayo |
+| Schedule cyber security and division-specific training | Manuel Perez / Roy Ayoade |
+| Authorise MoodleCloud licence upgrade and notify users about MFA | Manuel Perez / Selina Garcia |
+| Confirm TALKK CMS training and WCAG 2.2 review plan | Manuel Perez / Chandra Singh |
+
+
+
 ---
 # Section 4: File Upload page
 
 Source of research: 
 I was a PS (technical) engineer, so I'm developing the assessment from that perspective, which is why it's the most expensive part of the project. I used Seek to determine the hourly rate for a PS in Australia. I used my experience developing a bank platform modernisation project and a bank transactional switch modernisation project to develop the three business proposals.
 
-Find Email evidence on "email-1.txt" and "email-2.txt"
+Find Email evidence on "email-1.txt", "email-2.txt" and "email-3.txt"
 
 ---
 

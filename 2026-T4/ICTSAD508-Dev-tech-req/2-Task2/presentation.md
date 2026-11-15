@@ -168,17 +168,16 @@
 ## Slide 9
 
 ### Agreed:
-- Budget:
-- Timeline:
+- Budget: $500,000 max
+- Timeline: 12 mothons max
 - Post Support: 6 months
 
 
 ### Cost Analysis:
-- Fixed: $389,808 (Hardware, Software, PS, Misc)
-- Variable: $93,884 (Subs, providers, licenses, post)
-- Contingency: 10%
-- Budget: $483,692
- 
+- Discount: 25% (by Bulk purchasing on Hardware and network devices)
+- Fixed: $245,595 ($327,461) (Hardware, Network)
+- Variable: $200,941 
+- Budget: $446,536
 
 ---
 ## Questions & Answers
