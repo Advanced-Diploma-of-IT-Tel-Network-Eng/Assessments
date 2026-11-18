@@ -455,7 +455,7 @@ Stakeholder concerns were addressed. The initial recommendations were maintained
 # Section 4: File Upload page
 
 Source of research: 
-I was a PS (technical) engineer, so I'm developing the assessment from that perspective, which is why it's the most expensive part of the project. I used Seek to determine the hourly rate for a PS in Australia. I used my experience developing a bank platform modernisation project and a bank transactional switch modernisation project to develop the three business proposals.
+I was a PS (technical) engineer, so I'm developing the assessment from that perspective, which is why it's one of most expensive part of the project. I used Seek to determine the hourly rate for a PS in Australia. I used my experience developing a bank platform modernisation project and a bank transactional switch modernisation project to develop the three business proposals.
 
 Find Email evidence on "email-1.txt", "email-2.txt" and "email-3.txt"
 
