@@ -1,0 +1,38 @@
+To: Alex Garcia
+Cc: Roy Ayoade, Selina Garcia, Chandra Singh, Nomthandazo Adebayo, Shireen Washington
+Subject: Training stage - group training schedule
+
+Hi Alex,
+
+The project has now reached the training stage. Training will be scheduled by group, so each team only attends the sessions related to its area of work. Roy Ayoade (HR Manager) and I will coordinate the schedule to avoid affecting classes.
+
+Groups attending:
+
+- All staff (all campuses)
+- Trainers and assessors
+- Students
+- Marketing team
+- Compliance & QA Officer
+- Finance team
+- IT team
+
+Training by group:
+
+- All staff (all campuses): basic cyber security training, including MFA and VPN use - online - month 2-3
+- All staff: introduction to the new laptops and Google Workspace (cloud access) - workshop and user guide - month 4-8
+- Trainers and assessors: classroom devices (audio and video) - short workshop in the classroom - month 4-8
+- Trainers and assessors: upgraded Moodle (courses and assessments) - workshop led by the Academic Manager - month 3-4
+- Students: Moodle login with MFA - online user guide and provider notification - month 2-3
+- Marketing team: TALKK CMS and multilingual content - delivered by TALKK - month 6-7
+- Compliance & QA Officer: WCAG 2.2 accessibility review - delivered by TALKK - month 6-7
+- Finance team: SLA and licence renewals from year two - briefing meeting - month 11
+- IT team: Fortinet and UniFi administration (firewall, VPN and monitoring) - vendor training and documentation - month 2-3
+
+Exact dates and session times will be confirmed with each group after the training needs meeting. Please let me know if you would like to change the priority of any training.
+
+Kind regards,
+
+
+
+Kind regards,
+Manuel Perez - IT Manager

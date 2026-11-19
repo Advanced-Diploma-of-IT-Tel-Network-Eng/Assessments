@@ -25,7 +25,9 @@ Action items:
 - Authorise the MoodleCloud licence upgrade and notify users about MFA - Manuel Perez / Selina Garcia
 - Confirm TALKK CMS training and WCAG 2.2 review plan - Manuel Perez / Chandra Singh
 
-The full meeting notes are attached. Please let me know if you have any feedback.
+
+
+Please find the "Training Needs Analysis (TNA)" to see all detils. Please let me know if you have any feedback.
 
 Kind regards,
 Manuel Perez - IT Manager
