@@ -1,0 +1,32 @@
+To: Alex Garcia
+Cc: Roy Ayoade, Selina Garcia, Chandra Singh, Nomthandazo Adebayo, Shireen Washington
+Subject: Training session progress
+
+Hi Alex,
+
+We are sending the summary of the feedback we received from the first training session held last week.
+
+Summary:
+All groups were introduced to the topics to be covered in the training sessions. Questions were answered.
+
+Concerns: All employees expressed concern about the new security measures and the need to be able to get their questions answered without our support.
+
+1. WCGA policy compliance
+2. MFA usage
+3. Laptop security
+4. Question resolution/support
+
+Actions:
+1. WCGA compliance is the responsibility of the TALKK team. They will request adjustments to new publications when necessary.
+
+2. MFA generates codes automatically, so once the app is configured, no further steps are required.
+
+3. It was clarified that the pre-installed security software is remotely operated, maintained, and updated, so staff do not need to take any action.
+
+4. All staff were reminded that we will provide general support for another 6 months. Therefore, they can contact us if they require our assistance.
+
+Finally, the training managers were informed that we will send the training materials with more detailed information regarding the concerns gathered during the training sessions.
+
+
+Kind regards,
+Manuel Perez - IT Manager

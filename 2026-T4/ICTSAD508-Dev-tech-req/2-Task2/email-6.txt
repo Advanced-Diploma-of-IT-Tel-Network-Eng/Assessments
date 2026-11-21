@@ -1,0 +1,38 @@
+To: Manuel Perez
+Subject: RE: Training session progress - test results accepted and project closure
+
+Hi Manuel,
+
+Hi Manuel,
+
+Thank you for the summary of the feedback from the first training session. The concerns raised by staff were answered clearly. Please send the training materials to the training managers as you planned, as they will help staff resolve questions on their own.
+
+Testing and benchmark results
+We have reviewed the test results in the Planning for implementation document, and we accept the results for the three business solutions:
+
+1. ICT Infrastructure Upgrade and Security
+2. Modernisation and Integration of the Existing Moodle
+3. Website Improvement
+
+* The business benchmarks (student growth and market share) can only be measured after go-live. We will review them through our continuous improvement system and the annual internal audit. So we will be sharing our results with you.
+
+* Project closure and sign-off
+Please start the project closure process. Selina and I will provide written sign-off once we receive the closure package trainning.
+
+
+* Post-project technical support
+Once sign-off is complete, please start the 6-month technical support period (block of 1,000 hours) as agreed. Please confirm:
+
+- The start and end dates of the support period
+- How staff should contact IT support, and the response times
+- Which issues go to each vendor (MoodleCloud, TALKK, Fortinet, Telstra, Google Workspace) and which are handled by IT
+- A monthly support report showing hours used and issues resolved
+
+Finally, please remind the Finance team that licence and service renewals will be managed directly with each vendor from the second year, as covered in the SLA and renewal briefing.
+
+
+Thank you to you and your team for delivering the project within the agreed budget and timeline.
+
+Kind regards,
+Alex Garcia - CEO
+King Edward VII College

@@ -54,28 +54,23 @@ Technical Benchmarks:
 
 |**Test**|**Expected Benchmark**|**Result**|**Outcome**|
 |---|---|---|---|
-|||X|X|
-|**Speed test**<br>**(nbn)**|Downloading 975<br>Uploading 350|||
-|**VPN hub -**|Tunnelling<br>Speed<br>200G|X|X|
-|**campus**<br>**(IPSec)**|70G<br>Ping, Stable, Traceroute|||
-|||X|X|
-||Private network Staff|||
-|**Remote VPN**<br>**(staff)**|Private network Students<br>Public Network|||
-|**Wi-Fi**||X|X|
-|**coverage**|Wi-Fi coverage~100m|||
-||Secure configuration<br>Hardening|X|X|
-|**Laptops**|pre-installed software|||
+|**Speed test**<br>**(nbn)**|Downloading 975<br>Uploading 350|Downloading 900<br>Uploading 340<br>Ping 5ms|The average results are lower than<br>the reference values but are within<br>the acceptable range.|
+||200G - 36<br>Tunnelling speed IPSec|35.4Gbps<br>76.98Gpbs||
+|**VPN hub -**<br>**campus**<br>**(IPSec)**|70G – 7.1<br>Tunnelling speed IPSec<br>Ping<br>tunnel uptime 30min<br>Traceroute|20/20 and 30/30  packages<br>0% loss<br>avg 9ms<br>min 8 – max 12<br>3 hops: 10.20.1.1 (70G) to<br>10.255.0.1 (tunnel IPsec) to<br>10.10.0.1 (200G hub), 8 ms|The result is less than 3%.<br>Accepted.|
+|**Remote**<br>**VPN (staff)**|Private network Staff<br>Private network Students<br>Public Network|Accessible, stable session<br>Accessible, stable session<br>Accessible, stable session|Accepted|
+|**Wi-Fi**<br>**coverage**|Wi-Fi coverage~100m|98m – inside<br>12ms<br>-10% internet speed at 100m|Results are better than 10% under<br>adverse conditions. Accepted|
 
 
 
-|**Classroom**<br>**devices**|Online Clase, video, audio, files|X|X|
+|**Laptops**|Secure configuration<br>Hardening<br>pre-installed software|Checked<br>Approved, secure<br>Checked by staff|Accepted|
 |---|---|---|---|
-|**Cloud**<br>**access**|Backup restored from Google Workspace|X|X|
-|**MFA and**<br>**role-based**<br>**access**|MFA<br>Role base|X|X|
-|**Endpoint**<br>**protection**|FortiClient runs antimalware<br>advance-protection<br>Monitoring<br>Reporting<br>Blocking|X|X|
-|**Web**<br>**filtering**|Blocking<br>news<br>Gambling<br>Games<br>Adult|X|X|
-|**Vulnerability**<br>**scan**|0 critical vulnerabilities|X|X|
-|**Backup and**<br>**restore**|Test file is recoverable|X|X|
+|**Classroom**<br>**devices**|Online Clase, video, audio, files|All devices working|Accepted|
+|**Cloud**<br>**access**|Backup restored from Google Workspace|Restored, no file issues, integrity<br>checked|Accepted|
+|**MFA and**<br>**role-based**<br>**access**|MFA<br>Role base|MFA working, SMS, email, app|Accepted|
+|**Endpoint**<br>**protection**|FortiClient runs antimalware<br>advance-protection<br>Monitoring<br>Reporting<br>Blocking|EICAR file detected, blocked,<br>deleted and/or quarantine and<br>reported<br>Endpoint: Online<br>Real-time protection: on<br>DB updated|Accepted|
+|**Web**<br>**filtering**|Blocking<br>news<br>Gambling<br>Games<br>Adult|Website blocked and reported<br>Endpoint: Online<br>Real-time protection: on|Approved|
+|**Vulnerabilit**<br>**y scan**|0 critical vulnerabilities|No threats|Approved|
+|**Backup and**<br>**restore**|Test file is recoverable|Restored, no file issues, MD5<br>integrity checked|Approved|
 
 
 
@@ -83,21 +78,20 @@ Technical Benchmarks:
 
 |**Test**|**Expected Benchmark**|**Result**|**Outcome**|
 |---|---|---|---|
-|**Existing data**<br>**after upgrade**|No missing information|X|X|
-|**Course**||X|X|
-|**access**<br>**(functionality)**|Students and trainers have access to and use courses,<br>resources, and assessments.|||
-|||X|X|
+|**Existing data**<br>**after upgrade**|No missing information|No missing information|Approved|
+|**Course**<br>**access**<br>**(functionality)**|Students and trainers have access to and use courses,<br>resources, and assessments.|Students and trainers<br>have access to and use<br>courses, resources, and<br>assessments.|Approved|
+|||Notification received by<br>the MFA app|Approved|
 |**MFA**|Sent notification to setting up MFA|||
-|**Responsive**<br>**design**<br>**(compatibility**||X|X|
-|**)**|All work and classroom devices are working|||
-|||X|X|
-|**Load**|Load test with 500 students+staff, no issues|||
+|**Responsive**<br>**design**<br>**(compatibility**<br>**)**|All work and classroom devices are working|All devices working|Approved|
+|**Load**|Load test with 500 students+staff, no issues|Downloading avg<br>1.7Mbps<br>Uploading avg 168Mbps<br>less than 32ms<br>Packet loss less tan<br>0.4%|For 500+ people, the<br>download speed drops<br>considerably; however, it<br>is sufficient for tasks<br>within Moodle and<br>audio/video.|
 
 
 
-|**Accessibility**|Comply WCAG 2.2 Level A|X<br>X|
-|---|---|---|
-|**User**<br>**acceptance**<br>**testing (UAT)**|Testing course approved|X<br>X|
+||||Approved|
+|---|---|---|---|
+|**Accessibility**|Comply WCAG 2.2 Level A|Comply WCAG 2.2<br>Level A|Approved|
+|**User**||Passed all test courses|Approved|
+|**acceptance**<br>**testing (UAT)**|Testing course approved|||
 
 
 
@@ -105,23 +99,22 @@ Technical Benchmarks:
 
 |**Test**|**Expected Benchmark**|**Result**|**Outcome**|
 |---|---|---|---|
-|**Functionality**<br>**and**<br>**navigation**|<br>Landing page<br>Links<br>Moodle<br>Marketing|X|X|
-|||X|X|
-|**Content**<br>**checking**|Courses information|||
-|||X|X|
+|**Functionality**<br>**and**<br>**navigation**|<br>Landing page<br>Links<br>Moodle<br>Marketing|2s<br>All links working<br>Moodle accessible<br>Marketing is showing as<br>excepted|Approved|
+|**Content**<br>**checking**|Courses information|The course, title,<br>information, and content<br>are reproduced<br>correctly.|Approved|
+|||The content changes<br>language|Approved|
 |**Multilingual**|Language change available|||
 
 
 
-|||X|X|
+|||Comply WCAG 2.2<br>Level A|Approved|
 |---|---|---|---|
 |**Accessibility**|Comply WCAG 2.2 Level A|||
-|||X|X|
+|||Avg 2s|Approved|
 |**Performance**|Loading lading page in less than 2.5s|||
-|**Interface**<br>**(API)**|Login to Moodle and APIs working|X|X|
-||HTTPS (SSL/TLS)|X|X|
+|**Interface**<br>**(API)**|Login to Moodle and APIs working|Moodle, API to Moodle,<br>API to Marketing<br>working|Approved|
+||HTTPS (SSL/TLS)|valid and functional<br>certificates<br>0 threats|Approved|
 |**Security**|0 critical vulnerabilities|||
-|**W3C**<br>**validation**|0 critical errors|X|X|
+|**W3C**<br>**validation**|0 critical errors|0 critical errors|Approved|
 
 
 
