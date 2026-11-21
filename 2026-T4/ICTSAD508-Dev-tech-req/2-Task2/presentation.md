@@ -165,10 +165,10 @@
 
 ---
 
-## Slide 9
+## Slide 10
 
 ### Agreed:
-- Budget: $500,000 max
+- Budget: $446,536
 - Timeline: 12 mothons max
 - Post Support: 6 months
 

@@ -331,13 +331,13 @@ Quantity | Cost/unit | Total cost
 
 ## Professional Services
 
-- IT Manager: 960 hours | $83/hour | $XXX
-- Finance & Administration Manager: 80 hours | $83/hour | $XXX
-- Compliance & QA Officer: 160 hours | $35/hour | $XXX
+- IT Manager: 960 hours | $83/hour | $79,680
+- Finance & Administration Manager: 80 hours | $83/hour | $6,640
+- Compliance & QA Officer: 160 hours | $35/hour | $5,600
 - Marketing Manager and Marketing Assistant: 80 hours / 120 hours | $34 / $39 per hour | $4,680
-- Technician engineer: 960 hours | $41/hour | $XXX
+- Technician engineer: 960 hours | $41/hour | $39,360
 - Technician engineer support: 1000 hours (6 months, Block of Hours) | $41/hour | $41,000
-- APIs Developer: 96 hours | $80/hour | $XXX
+- APIs Developer: 96 hours | $80/hour | $7,680
 
 *Professional Services subtotal: $184,640
 
@@ -466,6 +466,7 @@ Find Email evidence on "email-1.txt", "email-2.txt" and "email-3.txt"
 
 Find this section on "Planning for implementation.docx"
 Find the email to Alex about the training sessions in email-4.txt
+Find screenshots on "/screenshots"
 
 ---
 
